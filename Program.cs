@@ -25,10 +25,10 @@ class Program
                     GradeCalculator.Run();
                     break;
                 case "2":
-                //    TicketPriceCalculator.Run(); // Coming next
-                //    break;
+                    TicketPriceCalculator.Run();
+                    break;
                 //case "3":
-                //    TriangleTypeIdentifier.Run(); // Coming after
+                //    TriangleTypeIdentifier.Run(); // Coming next
                 //    break;
                 case "4":
                     exit = true;
