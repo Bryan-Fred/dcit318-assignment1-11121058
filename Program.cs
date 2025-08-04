@@ -27,9 +27,9 @@ class Program
                 case "2":
                     TicketPriceCalculator.Run();
                     break;
-                //case "3":
-                //    TriangleTypeIdentifier.Run(); // Coming next
-                //    break;
+                case "3":
+                    TriangleTypeIdentifier.Run();
+                    break;
                 case "4":
                     exit = true;
                     break;
